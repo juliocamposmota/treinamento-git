@@ -1,3 +1,5 @@
 Oi! Eu sou Alice. Sou um arquivo que alguém adicionou neste repositório há um bom tempo.
 
 Algumas features foram adicionadas no meu escopo. Mas o backlog ainda está lotado!
+
+É essencial criar uma cultura TDD.
