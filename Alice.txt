@@ -1,3 +1,5 @@
 Oi! Eu sou Alice. Sou um arquivo que alguém adicionou neste repositório há um bom tempo.
 
 Deste então muitos já aprenderam GIT comigo.
+
+Bob me ajuda quando preciso.
